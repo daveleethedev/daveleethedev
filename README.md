@@ -14,8 +14,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java,flask,tailwind,bootstrap,git)](https://skillicons.dev)
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lealpontopy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-lealpontopy-trophy)
 
 ### 📌Aprendendo ou Ainda Vou Aprender:
 
