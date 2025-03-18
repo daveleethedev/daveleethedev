@@ -3,10 +3,10 @@
 #### 🔵Aqui é Onde Guardo Meus Projetos🔵
 
 
-⭐Web
-⭐Desktop
-⭐  gamedev
-⭐   fullstack
+➡️Web
+➡️Desktop
+➡️  gamedev
+➡️   fullstack
 
 
 ### 📌Minhas Skills E Habilidades Que estou estudando:
