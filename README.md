@@ -5,7 +5,8 @@
 
 ➡️  Web
 ➡️  Desktop
-➡️  gamedev
+➡️  front-end
+➡️  Back-end
 ➡️  fullstack
 
 
