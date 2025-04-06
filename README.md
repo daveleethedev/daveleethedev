@@ -13,7 +13,7 @@
 ### 📌Minhas Skills E Skills Que Estou Aprendendo:
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java,flask,tailwind,bootstrap,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,flask,tailwind,bootstrap,git)](https://skillicons.dev)
 
 ### 📌Ainda Vou Aprender:
 
