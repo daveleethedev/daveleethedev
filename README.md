@@ -3,13 +3,6 @@
 #### 🔵Aqui é Onde Guardo Meus Projetos🔵
 
 
-➡️  Web
-➡️  Desktop
-➡️  front-end
-➡️  Back-end
-➡️  fullstack
-
-
 ### 📌Minhas Skills E Skills Que Estou Aprendendo:
 <hr>
 
@@ -26,15 +19,7 @@
 
 <hr>
 
-### 📌Pretendo Ajudar Em Projetos Para :
 
-- Aumentar Minha Experiência
-- Aumentar Minhas Habilidades
-- Ser Reconhecido pela comunidade
-- conhecer pessoas novas
-- Aprender Aquilo Que eu não acho em cursos
-
-<hr>
 
 ## 📌Meus Gostos Pessoais
 
