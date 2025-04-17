@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,flask,tailwind,bootstrap,git)](https://skillicons.dev)
 
 ### 📌Ainda Vou Aprender:
-
+ 
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![NodeJs](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=nodejs&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 	![React](https://img.shields.io/badge/react-%232C2D72.svg?style=for-the-badge&logo=react&logoColor=white)
 
