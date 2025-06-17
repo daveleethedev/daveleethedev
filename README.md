@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=19F73B&&width=600&lines=👋Olá+Mundo!;me+chamo+Davi+Leal.;👋Seja+bem+vindo(a).;Me+Segue+aí+☕.)
 
 ### 📌Skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,flask,tailwind,bootstrap,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,git)](https://skillicons.dev)
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviLealDev&show_icons=true&theme=radical)
