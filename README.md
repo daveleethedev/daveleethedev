@@ -9,7 +9,7 @@
 <hr>
 
 ## 📌Fale Comigo:
-Nick:leal.py ou lealpontopy
+
 <br>
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)  
 
@@ -17,3 +17,4 @@ Nick:leal.py ou lealpontopy
 - [Clique Aqui Para O Stack Overflow!](https://stackoverflow.com/users/30027396/leal-py)
 - [Clique Aqui Para O Instagram!](https://www.instagram.com/leal.py/)
 - Discord: lealpontopy
+- email: odavileal88@gmail.com
