@@ -8,6 +8,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=randonetheone&show_icons=true&theme=radical)
 
 <hr>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=randonetheone&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📌Fale Comigo:
