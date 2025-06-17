@@ -4,6 +4,7 @@
 ### 📌Skills:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,flask,tailwind,bootstrap,git)](https://skillicons.dev)
 <hr>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviLealDev&show_icons=true&theme=radical)
 
 <hr>
