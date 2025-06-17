@@ -8,10 +8,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=randonetheone&show_icons=true&theme=radical)
 
 <hr>
-
+<div align="center">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=randonetheone&theme=nightowl&hide_border=false) <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=randonetheone&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+</div>
 ## 📌Fale Comigo:
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)  
 
@@ -19,3 +19,9 @@
 - [Clique Aqui Para O Stack Overflow!](https://www.reddit.com/user/Honest_Law3681/)
 - [Clique Aqui Para O Instagram!](https://www.instagram.com/leal.py/)
 - Discord: lealpontopy
+
+
+ ## Total de visitas no meu perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/randonetheone/count.svg" />
+ </p>
