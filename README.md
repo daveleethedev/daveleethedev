@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=19F73B&&width=600&lines=👋Olá+Mundo!;me+chamo+Randone🐸.;👋Seja+bem+vindo(a).;Me+Segue+aí+☕.)
 </div>
 
-## 📌Minhas Skills:
+
 <div align="center">
  
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=randonetheone&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
