@@ -6,12 +6,14 @@
 ## 📌Minhas Skills:
 <div align="center">
  
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=randonetheone&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,git)](https://skillicons.dev)
-<hr>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=randonetheone&show_icons=true&theme=radical) ![](https://github-readme-streak-stats.herokuapp.com/?user=randonetheone&theme=nightowl&hide_border=false)
  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=randonetheone&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
 
 ## 📌Fale Comigo:
