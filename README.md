@@ -18,11 +18,11 @@
 </div>
 
 ## 📌Fale Comigo:
-
+ ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)  Discord: daveleethedev <br>
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white) [Clique Aqui Para O Reddit!](https://www.reddit.com/user/Honest_Law3681/) <br>
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)  [Clique Aqui Para O Instagram!](https://www.instagram.com/leal.py/) <br>
  ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)  [Clique Aqui Para O Stack Overflow!](https://stackoverflow.com/users/30027396/randonetheone?tab=profile) <br>
- ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)  Discord: daveleethedev <br>
+
  
 
 
