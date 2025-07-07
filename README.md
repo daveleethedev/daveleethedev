@@ -23,10 +23,8 @@
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)  [Clique Aqui Para O Instagram!](https://www.instagram.com/leal.py/) <br>
  ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)  [Clique Aqui Para O Stack Overflow!](https://stackoverflow.com/users/30027396/randonetheone?tab=profile) <br>
 
- 
-
 
  ## Total de visitas no meu perfil :detective: <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/randonetheone/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/daveleethedev/count.svg" />
  </p>
