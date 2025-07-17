@@ -26,5 +26,5 @@
 
  ## Total de visitas no meu perfil :detective: <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/daveleethedev/count.svg" />
+   <img align="center" src="https://profile-counter.glitch.me/daveleethedev/count.svg"/>
  </p>
