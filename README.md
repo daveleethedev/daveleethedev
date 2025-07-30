@@ -13,14 +13,11 @@
 
 </div>
 
-<div style="display:flex; flex-direction:row;">
 
-![Davi Github stats](https://github-readme-stats.vercel.app/api?username=daveleethedev&show_icons=true&theme=radical) 
-
+<div align="center">
 
 
-![Davi Leal](https://github-readme-streak-stats.herokuapp.com/?user=daveleethedev&theme=nightowl&hide_border=false)
-
+![Davi Github stats](https://github-readme-stats.vercel.app/api?username=daveleethedev&show_icons=true&theme=radical)  
 </div>
 
 
