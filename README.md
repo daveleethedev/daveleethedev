@@ -31,7 +31,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=obsidian,electron,mint,ubuntu,linux,github,git,notion,vscode,md,pycharm,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=obsidian,electron,mint,ubuntu,debian,linux,github,git,notion,vscode,md,pycharm,firebase)](https://skillicons.dev)
 </div>
 
 
